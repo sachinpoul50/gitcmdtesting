@@ -12,6 +12,8 @@ git push origin main/master
 git checkout -b newbranch (This will create newbranch and checkout it)
 git branch
 git status
+
+git commit -a (This will and add commit the code at same time)
 ##############################################################
 git status
 git branch firstbranch (Create firstbranch)
